@@ -32,26 +32,26 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍ **Developer:** @AbirHasan2005
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Editing:** @mdiskmovies30
 
-📺 **Support:** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Main Channel:** [Mdisk Channel](https://t.me/mdiskmovies30)
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Any Doubt:** @Berlinsupportg
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Movies file Channel:** [Channel](https://t.me/likemovie30)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @mdiskmovies30
 
-💻 **Developer Details:** [Clcik Here](https://github.com/MoTechYT/MT-FilesStoreBot/blob/main/README.md)
+💻 **Main Channel:** [Clcik Here](https://t.me/mdiskmovies30)
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Editing:** @likemovie30
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Any Doubt:** @Berlinsupportg
 
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Support :** [📢Support Gorup](https://t.me/Berlinsupportg)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Movies Reg Group:** [Movie Reg Group](https://t.me/likemoviesearch)
 
 Donate Now (coming soon)
 """
